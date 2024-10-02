@@ -1,3 +1,4 @@
+//main
 public class BinSearch {
     public static int binSearch(int[] arr, int target) {
         int left = 0;
